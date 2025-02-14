@@ -1,0 +1,2 @@
+INFO	Driver path: /snap/bin/geckodriver
+INFO	Browser path: /snap/bin/firefox

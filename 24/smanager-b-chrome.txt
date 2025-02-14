@@ -1,0 +1,2 @@
+INFO	Driver path: /home/carlos/.cache/selenium/chromedriver/linux64/120.0.6099.71/chromedriver
+INFO	Browser path: /usr/bin/google-chrome
